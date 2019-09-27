@@ -1,6 +1,4 @@
 site_name: WFHS Docs
-nav:
-  -Home: index.md
 
 theme: 
   name: 'material'
